@@ -1,2 +1,2 @@
 # Learning-Lua-Growlauncher
-# Ivynnio is @Reyvinaldo
+Ivynnio is @Reyvinaldo
